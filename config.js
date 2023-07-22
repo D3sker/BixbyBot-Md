@@ -2,14 +2,9 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
-global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
-  ['xxxxxxxxxx',],
-  //['xxxxxxxxxx'],	
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
-] //Numero degli owner
+global.owner[393515638253'desker']
+
+//Numero degli owner
 
 //════════════ •⊰✧⊱• ════════════
 
@@ -83,7 +78,7 @@ global.maxwarn = '4' // máxima advertencias
 
 //════════════ •⊰✧⊱• ════════════
 
-global.wm = 'ꪶ 𝐁𝐢𝐱𝐛𝐲 𝐕𝐢𝐬𝐢𝐨𝐧 ꫂ'
+global.wm = '{ DEKER-BOT}
 global.wait = '𝐅𝐚𝐭𝐭𝐨 ✓'
 global.rwait = '⌛'
 global.dmoji = '🤭'
